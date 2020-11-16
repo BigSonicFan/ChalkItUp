@@ -5,7 +5,7 @@ const log = console.log;
 log(chalk.magentaBright("Kirby ") + chalk.white("and ") + chalk.magenta("Friends: ") + chalk.white('The Picnic'));
 log(chalk.cyanBright("Written by: ") + chalk.cyan("Sammy Stark"));
 log(chalk.white("It was a beautiful day at Dream Land."));
-log(chalk.white("Oh, who is this walking around?"));
+log(chalk.white("Oh, who is this walking by?"));
 log(chalk.white("It looked like a ") + chalk.magentaBright("pink round puffball ") + chalk.white("with ")  + chalk.magentaBright("pink round hands")  + chalk.white(", ") + chalk.redBright("red round feet")  + chalk.white(", and ") + chalk.blue("blue-tiful blue eyes") + chalk.white('.'));
 log(chalk.white("It looked like it was carrying a basket."))
 log(chalk.magentaBright("'Hi there! My name is Kirby!'") + chalk.white(" Kirby said as he introduced himself."));
