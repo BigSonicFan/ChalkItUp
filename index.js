@@ -6,7 +6,7 @@ log(chalk.magentaBright("Kirby ") + chalk.white("and ") + chalk.magenta("Friends
 log(chalk.cyanBright("Written by: ") + chalk.cyan("Sammy Stark"));
 log(chalk.white("It was a beautiful day at Dream Land."));
 log(chalk.white("Oh, who is this walking around?"));
-log(chalk.white("It looked like a ") + chalk.magentaBright("pink round puffball ") + chalk.white("with ")  + chalk.magentaBright("pink round hands ")  + chalk.white(", ") + chalk.redBright("red round feet")  + chalk.white(", and ") + chalk.blue("blue-tiful blue eyes") + chalk.white('.'));
+log(chalk.white("It looked like a ") + chalk.magentaBright("pink round puffball ") + chalk.white("with ")  + chalk.magentaBright("pink round hands")  + chalk.white(", ") + chalk.redBright("red round feet")  + chalk.white(", and ") + chalk.blue("blue-tiful blue eyes") + chalk.white('.'));
 log(chalk.white("It looked like it was carrying a basket."))
 log(chalk.magentaBright("'Hi there! My name is Kirby!'") + chalk.white(" Kirby said as he introduced himself."));
 log(chalk.magentaBright("'Today, I'm going on a picnic with my friends!'") + chalk.white(" Kirby informed."));
@@ -16,7 +16,7 @@ log(chalk.magentaBright("'That way, not only we'll enjoy the food, but we can al
 log(chalk.white("And so, Kirby, with his basket heads straight up to the hill. He sets the picnic blanket up, and when Kirby starts to get the food he brought to the picnic, he smells a beautiful breeze."));
 log(chalk.magentaBright("'Ahhh, the scent of the beautiful breeze.'") + chalk.white(' Kirby complimented to the breezing scent in the air.'));
 log(chalk.white("Then, Kirby see someone else walking up to the hill."));
-log(chalk.white("It looked like Kirby, but it was a " + chalk.yellowBright("yellow round puffball ") + chalk.white("with ")  + chalk.yellowBright("yellow round hands ")  + chalk.white(", ") + chalk.redBright('orange round feet'))  + chalk.white(", ") + chalk.red('brown eyes')  + chalk.white(", and a small eyelash on each eye") + chalk.white('.'));
+log(chalk.white("It looked like Kirby, but it was a " + chalk.yellowBright("yellow round puffball ") + chalk.white("with ")  + chalk.yellowBright("yellow round hands")  + chalk.white(", ") + chalk.redBright('orange round feet'))  + chalk.white(", ") + chalk.red('brown eyes')  + chalk.white(", and a small eyelash on each eye") + chalk.white('.'));
 log(chalk.magentaBright("'Hey, it's one of my best friends Laini! Hi, Laini!' ") + chalk.white('Kirby said excitedly while waving.'));
 log(chalk.yellowBright("'Hi, Kirby!' ") + chalk.white('Laini said excitedly as she waves back.'));
 log(chalk.white('It appears that Laini brought something with her for the picnic.'));
@@ -27,7 +27,7 @@ log(chalk.yellowBright("'Well, since it's nice and warm out, I thought I bring s
 log(chalk.magentaBright("'Thank you, BFF.' ") + chalk.white('Kirby said as he appreciate the bottles of water.'));
 log(chalk.yellowBright("'You're welcome, BFF.' ") + chalk.white('Laini replied.'));
 log(chalk.white("Then, there was another round puffball walking up to the hill."));
-log(chalk.white("It looked like Kirby and Laini, but it was a " + chalk.cyanBright("cyan round puffball ") + chalk.white("with ")  + chalk.cyanBright("cyan round hands ")  + chalk.white(", ") + chalk.blue('blue round feet'))  + chalk.white(", and ") + chalk.gray('gray eyes') + chalk.white('.'));
+log(chalk.white("It looked like Kirby and Laini, but it was a " + chalk.cyanBright("cyan round puffball ") + chalk.white("with ")  + chalk.cyanBright("cyan round hands")  + chalk.white(", ") + chalk.blue('blue round feet'))  + chalk.white(", and ") + chalk.gray('gray eyes') + chalk.white('.'));
 log(chalk.yellowBright("'Hey, it's our friend Sky!' ") + chalk.white('Laini said with excitement!'));
 log(chalk.magentaBright("'Hi, Sky!' ") + chalk.white('Kirby said excitedly while waving.'));
 log(chalk.yellowBright("'Hi, Sky! How are you today?' ") + chalk.white('Laini said excitedly while waving.'));
@@ -39,7 +39,7 @@ log(chalk.magentaBright("'I love chips! They are such a great snack!' ") + chalk
 log(chalk.yellowBright("'And do you know what chips go good with?' ") + chalk.white('Laini asked while in topic.'));
 log(chalk.cyanBright("'What's that, Laini?' ") + chalk.white('Sky wondered in curiosity.'));
 log(chalk.white("Before Laini could answer Sky's question, there was another round puffball walking up to the hill."));
-log(chalk.white("It looked like Kirby, Laini and Sky, but it was a " + chalk.redBright("red round puffball ") + chalk.white("with ")  + chalk.redBright("red round hands ")  + chalk.white(", ") + chalk.red('dark red round feet'))  + chalk.white(", and ") + chalk.magenta('purple eyes') + chalk.white('.'));
+log(chalk.white("It looked like Kirby, Laini and Sky, but it was a " + chalk.redBright("red round puffball ") + chalk.white("with ")  + chalk.redBright("red round hands")  + chalk.white(", ") + chalk.red('dark red round feet'))  + chalk.white(", and ") + chalk.magenta('purple eyes') + chalk.white('.'));
 log(chalk.magentaBright("'Oh, it's our friend Flame! Hi, Flame!' ") + chalk.white('Kirby said as he waved at Flame with excitement!'));
 log(chalk.yellowBright("'Hi there, Flame!' ") + chalk.white('Laini added.'));
 log(chalk.cyanBright("'Hey, Flame! How's it going?' ") + chalk.white('Sky added.'));
