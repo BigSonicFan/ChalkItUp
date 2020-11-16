@@ -1,0 +1,16 @@
+{
+  "name": "chalkitup",
+  "version": "1.0.0",
+  "description": "Chalk Short Story",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "chalk-animation": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SS",
+  "license": "ISC"
+}
